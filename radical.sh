@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-cd $HOME/MaTaDoR/cli
+cd $HOME/RaDiCaLbOt
 
 install() {
 	    cd libs
@@ -44,9 +44,9 @@ if [ ! -f ./libs/tgcli ]; then
     echo "Run $0 install"
     exit 1
 fi
-    green "MaTaDoR Cli Bot running..."
-	white ">>>>>>>>By @MahDiRoO<<<<<<<<<"
-	red ">>> Channel : @MaTaDoRTeaM :)"
+    green "RaDiCaL Bot running..."
+	white ">>>>>>>>By @SuDoRaDiCaL<<<<<<<<<"
+	red ">>> Channel : @RaDiCaLbOtTeAm :)"
 	#sudo service redis-server restart
 	./libs/tgcli -s ./bot/bot.lua $@
 fi
