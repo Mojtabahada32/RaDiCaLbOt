@@ -1,13 +1,13 @@
 <p 
     <div align="center">
-    <a href="https://telegram.me/RadikalBotTeam">
+    <a href="https://telegram.me/RadicalBotTeam">
         <img src="http://upir.ir/951/guest/Untitled-7.png" hspace="10" width="150">
     </a>
     <a href="https://telegram.me/ariasudo">
         <img src="http://upir.ir/951/guest/Untitled-6.png" width="150">
     </a>
 </div>
-<a href="https://telegram.me/RadikalBotTeam"><font size="100">رادیـڪال بـوت</font></a>
+<a href="https://telegram.me/RadicalBotTeam"><font size="100">رادیـڪال بـوت</font></a>
 
 
 * * *
@@ -18,18 +18,18 @@
 ```sh
 # Let's install the bot.
 cd $HOME
-git clone https://github.com/RadikalBotTeam/RadikalBot.git
-cd RadikalBot
+git clone https://github.com/RaDiCaLbOtTeAm/RaDiCaLbOt.git
+cd RaDiCaLbOt
 chmod +x radikal.sh
 chmod 777 auto.sh && sed -i -e 's/\r$//' auto.sh
-./radikal.sh install
-./radikal.sh 
+./radical.sh install
+./radical.sh 
 # Enter a phone number & confirmation code.
 ```
 ### One command
 To install everything in one command, use:
 ```sh
-cd $HOME && git clone https://github.com/RadikalBotTeam/RadikalBot.git  && cd RadikalBot && chmod +x radikal.sh && chmod 777 auto.sh && sed -i -e 's/\r$//' auto.sh && ./radikal.sh install && ./radikal.sh
+cd $HOME && git clone https://github.com/RaDiCaLbOtTeAm/RaDiCaLbOt.git  && cd RaDiCaLbOt && chmod +x radical.sh && chmod 777 auto.sh && sed -i -e 's/\r$//' auto.sh && ./radical.sh install && ./radical.sh
 ```
 
 * * *
@@ -38,7 +38,7 @@ cd $HOME && git clone https://github.com/RadikalBotTeam/RadikalBot.git  && cd Ra
 
 ```
 killall screen
-cd RadikalBot && screen ./radikal.sh
+cd RaDiCaLbOt && screen ./radical.sh
 ```
 
 * * *
