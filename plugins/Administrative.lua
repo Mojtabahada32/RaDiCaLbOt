@@ -1,4 +1,4 @@
-local SUDO = MaTaDoR_sudo
+local SUDO = RaDiCaLbOt_sudo
 function exi_files(cpath)
     local files = {}
     local pth = cpath
