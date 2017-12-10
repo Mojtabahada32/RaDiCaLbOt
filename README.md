@@ -20,7 +20,7 @@
 cd $HOME
 git clone https://github.com/RaDiCaLbOtTeAm/RaDiCaLbOt.git
 cd RaDiCaLbOt
-chmod +x radikal.sh
+chmod +x radical.sh
 chmod 777 auto.sh && sed -i -e 's/\r$//' auto.sh
 ./radical.sh install
 ./radical.sh 
@@ -47,7 +47,7 @@ cd RaDiCaLbOt && screen ./radical.sh
 ### auto launch 
 ```
 killall screen
-cd RadikalBot && screen ./auto.sh
+cd RaDiCaLbOt && screen ./auto.sh
 ```
 
 * * *
