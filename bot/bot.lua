@@ -18,7 +18,7 @@ chats = {}
 plugins = {}
 MaTaDoR_sudo = 353171541 -- ایدی سودوی اصلی را قرار دهید
 GpsidSudo = 353171541
-bot_id = 462116542-- ایدی ربات را قرار دهید
+bot_id = 462116542,473550877-- ایدی ربات را قرار دهید
 helper_id = 491433394 -- ایدی ربات api را قرار دهید
 MaTaDoRch = '@RADICALBOTTEAM' -- یوزرنیم کانال خود را قرار دهید
 MaTaDoRby = '@SUDORADICAL' -- یوزرنیم خود را قرار دهید
@@ -92,7 +92,7 @@ function create_config( )
     "Monshi",
 	"Rank"
 	},
-    sudo_users = {353171541,462116542}, -- در اینجا آیدی ربات api و cli  و سودو ها را وارد کنید
+    sudo_users = {353171541,462116542,473550877}, -- در اینجا آیدی ربات api و cli  و سودو ها را وارد کنید
     admins = {},
     disabled_channels = {},
     moderation = {data = './data/moderation.json'},
