@@ -302,9 +302,8 @@ help = [[
 ♦️ _دستورات برای قابلیت های سرگرم کننده_
 ﹃﹄﹃﹄﹃﹄﹃﹄﹃﹄﹃﹄
 
-🎭*سازنده :* ]]..check_markdown(MaTaDoRby)..[[
-
-💢*کانال تیم  :* ]]..check_markdown(MaTaDoRch)..[[
+Channel : @RadicalBotTeam
+SudoBot : @Sudoradical
 ]]
 ,
 helplock = [[
@@ -327,10 +326,8 @@ helplock = [[
 
 - *Auto* `(مخصوص قفل خودکار گروه گروه)`
 
-
-🎭*سازنده :* ]]..check_markdown(MaTaDoRby)..[[
-
-💢*کانال تیم  :* ]]..check_markdown(MaTaDoRch)..[[
+Channel : @RadicalBotTeam
+SudoBot : @Sudoradical
 ]]
 ,
 helplock4 = [[
@@ -348,10 +345,8 @@ helplock4 = [[
 
 -*[*•`link`•`Webpage`•`English`•`Arabic`•`Mention`•`Markdown`•`Edit`•`Forward`•`Tag`•`Username`•`Game`•`Inline`•`Gif`•`Photo`•`Video`•`Text`•`Voice`•`Audio`•`location`•`Document`•`Contact`•`Sticker`•`Keybord`*]*
 
-
-🎭*سازنده :* ]]..check_markdown(MaTaDoRby)..[[
-
-💢*کانال تیم  :* ]]..check_markdown(MaTaDoRch)..[[
+Channel : @RadicalBotTeam
+SudoBot : @Sudoradical
 ]]
 ,
 helpmod = [[
@@ -460,10 +455,8 @@ helpmod = [[
 ♦️ `تنظیم تعداد اخطار`
 ﹃﹄﹃﹄﹃﹄﹃﹄﹃﹄﹃﹄
 
-
-🎭*سازنده :* ]]..check_markdown(MaTaDoRby)..[[
-
-💢*کانال تیم  :* ]]..check_markdown(MaTaDoRch)..[[
+Channel : @RadicalBotTeam
+SudoBot : @Sudoradical
 ]]
 ,
 helpfun = [[
@@ -497,9 +490,9 @@ helpfun = [[
 ♦️ `نوشتن با 100 فونت مختلف`
 ﹃﹄﹃﹄﹃﹄﹃﹄﹃﹄﹃﹄
 
-🎭*سازنده :* ]]..check_markdown(MaTaDoRby)..[[
+Channel : @RadicalBotTeam
+SudoBot : @Sudoradical
 
-💢*کانال تیم  :* ]]..check_markdown(MaTaDoRch)..[[
 ]]
 }
 }
