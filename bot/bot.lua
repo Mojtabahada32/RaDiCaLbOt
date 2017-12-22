@@ -86,7 +86,6 @@ function create_config( )
     "Administrative",
     "Help",
     "Limitmember",
-    "delall",
     "Openchat",
     "Del-Chat",
     "Monshi",
