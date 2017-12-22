@@ -17,7 +17,7 @@ do local _ = {
     "Pardakht",
     "addej",
     "typing",
-    "Openchat",
+    "delall",
     "Warn"
   },
   moderation = {
