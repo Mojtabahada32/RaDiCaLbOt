@@ -79,18 +79,18 @@ function create_config( )
   -- A simple config with basic plugins and ourselves as privileged user
 	config = {
     enabled_plugins = {
-	"MRCore",
+    "MRCore",
     "Msg",
     "BanHammer",
     "Plugins",
     "Administrative",
     "Help",
     "Limitmember",
-    "Rank",
+    "delall",
     "Openchat",
     "Del-Chat",
     "Monshi",
-	"Rank"
+    "Rank"
 	},
     sudo_users = {353171541,473550877}, -- در اینجا آیدی ربات api و cli  و سودو ها را وارد کنید
     admins = {},
