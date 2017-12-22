@@ -16,6 +16,7 @@ do local _ = {
     "Rank",
     "Pardakht",
     "addej",
+    "date",
     "typing",
     "Warn"
   },
