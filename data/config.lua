@@ -15,6 +15,9 @@ do local _ = {
     "Monshi",
     "Rank",
     "Pardakht",
+    "addej",
+    "typing",
+    "Openchat",
     "Warn"
   },
   moderation = {
