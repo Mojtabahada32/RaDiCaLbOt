@@ -17,7 +17,6 @@ do local _ = {
     "Pardakht",
     "addej",
     "typing",
-    "delall",
     "Warn"
   },
   moderation = {
