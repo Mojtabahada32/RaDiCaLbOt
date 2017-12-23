@@ -3997,10 +3997,10 @@ text = string.gsub(text, "no", "`Disable `")
 text = string.gsub(text, 'warn', "`Warn `")
 text = string.gsub(text, 'kick', "`Kick `")
  else
-text = string.gsub(text, "yes", "#قفـله  ")
-text = string.gsub(text, "no", "#قفـل نیس ")
-text = string.gsub(text, 'warn', "#اخـطارمیـده ")
-text = string.gsub(text, 'kick', "#اخـراج میـکنه ")
+text = string.gsub(text, "yes", "#فـعال  ")
+text = string.gsub(text, "no", "# غیـرفعال ")
+text = string.gsub(text, 'warn', "#اخطـار ")
+text = string.gsub(text, 'kick', "#اخـراج  ")
  end
 return text
 end
