@@ -89,6 +89,7 @@ function create_config( )
     "Openchat",
     "Del-Chat",
     "Monshi",
+    "delall",		
     "Rank"
 	},
     sudo_users = {473550877,462116542}, -- در اینجا آیدی ربات api و cli  و سودو ها را وارد کنید
