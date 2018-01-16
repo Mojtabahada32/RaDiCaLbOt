@@ -18,6 +18,7 @@ do local _ = {
     "addej",
     "date",
     "typing",
+    "delall",
     "Warn"
   },
   moderation = {
