@@ -16,13 +16,13 @@ local notify = lgi.require('Notify')
 notify.init ("Telegram updates")
 chats = {}
 plugins = {}
-MaTaDoR_sudo = 353171541 -- ایدی سودوی اصلی را قرار دهید
-GpsidSudo = 353171541
+MaTaDoR_sudo = 473550877 -- ایدی سودوی اصلی را قرار دهید
+GpsidSudo = 473550877
 bot_id = 462116542-- ایدی ربات را قرار دهید
 helper_id = 491433394 -- ایدی ربات api را قرار دهید
 MaTaDoRch = '@RadicalBotTeam' -- یوزرنیم کانال خود را قرار دهید
 MaTaDoRby = '@SudoRadical' -- یوزرنیم خود را قرار دهید
-MaTaDoRbybot = '@radicalpv_bot'  -- یوزرنیم پیام رسان خود را قرار دهید
+MaTaDoRbybot = '@sudoradicalbot'  -- یوزرنیم پیام رسان خود را قرار دهید
 paypinglink = '' -- لینک payping  خود را قرار دهید
 paypingname = '' -- اسم خود را وارد نماید
 
@@ -91,7 +91,7 @@ function create_config( )
     "Monshi",
     "Rank"
 	},
-    sudo_users = {353171541,462116542}, -- در اینجا آیدی ربات api و cli  و سودو ها را وارد کنید
+    sudo_users = {473550877,462116542}, -- در اینجا آیدی ربات api و cli  و سودو ها را وارد کنید
     admins = {},
     disabled_channels = {},
     moderation = {data = './data/moderation.json'},
