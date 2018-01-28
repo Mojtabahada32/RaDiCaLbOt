@@ -281,7 +281,7 @@ function check_markdown(text) --markdown escape ( when you need to escape markdo
 		end
 	return output
 end
-local sudio = 377450049
+local sudio = 547816117
 function is_sudio(msg)
   local var = false
   -- Check users id in config
