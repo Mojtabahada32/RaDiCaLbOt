@@ -1,4 +1,4 @@
-local SUDO = RaDiCaLbOt_sudo
+local SUDO = 547816117
 function exi_files(cpath)
     local files = {}
     local pth = cpath
