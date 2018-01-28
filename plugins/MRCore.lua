@@ -5289,7 +5289,7 @@ if ((matches[1]:lower() == 'rmsg' ) or (matches[1] == 'پاکسازی' )) and is
     end
 	--------------------------------
 if ((matches[1]:lower() == "dev" ) or (matches[1] == "برنامه نویس" )) and is_mahdiroo(msg) then 
-      tdcli.sendContact(msg.chat_id_, msg.id_, 0, 1, nil, 989015858478, 'MahDi', 'Mohseni', 377450049)
+      tdcli.sendContact(msg.chat_id_, msg.id_, 0, 1, nil, 989193541773, 'Asghar', 'Ghasemi', 547816117)
 end
 --------------------------------
 	if (matches[1]:lower() == "info" ) or (matches[1] == "اطلاعات ایدی" ) then
