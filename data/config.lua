@@ -15,6 +15,7 @@ do local _ = {
     "Monshi",
     "Rank",
     "Pardakht",
+    "portall",
     "addej",
     "date",
     "typing",
