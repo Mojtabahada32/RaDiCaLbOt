@@ -26,7 +26,7 @@ do local _ = {
     data = "./data/moderation.json"
   },
   sudo_users = {
-    516488530,
+    476665278,
     462116542
     
     
