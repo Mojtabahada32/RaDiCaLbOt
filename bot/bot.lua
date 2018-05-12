@@ -16,8 +16,8 @@ local notify = lgi.require('Notify')
 notify.init ("Telegram updates")
 chats = {}
 plugins = {}
-MaTaDoR_sudo = 516488530,0000000,0000000 -- ایدی سودوی اصلی را قرار دهید
-GpsidSudo = 516488530
+MaTaDoR_sudo = 476665278,0000000 -- ایدی سودوی اصلی را قرار دهید
+GpsidSudo = 476665278
 bot_id = 462116542-- ایدی ربات را قرار دهید
 helper_id = 491433394 -- ایدی ربات api را قرار دهید
 MaTaDoRch = '@RadicalBotTeam' -- یوزرنیم کانال خود را قرار دهید
@@ -92,7 +92,7 @@ function create_config( )
     "delall",		
     "Rank"
 	},
-    sudo_users = {516488530,462116542,0000000,0000000}, -- در اینجا آیدی ربات api و cli  و سودو ها را وارد کنید
+    sudo_users = {476665278,462116542}, -- در اینجا آیدی ربات api و cli  و سودو ها را وارد کنید
     admins = {},
     disabled_channels = {},
     moderation = {data = './data/moderation.json'},
